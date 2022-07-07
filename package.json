@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/barseille/toDoList#readme",
   "dependencies": {
-    "bootstrap": "^5.1.3"
+    "bootstrap": "^5.1.3",
+    "standard": "^17.0.0"
   }
 }

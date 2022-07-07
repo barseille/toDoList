@@ -1,1 +1,11 @@
-@import "../node_modules/bootstrap/scss/bootstrap.scss"
+@import "_variables_overrides.scss";
+
+@import "_utilities_custom.scss";
+
+@import "../node_modules/bootstrap/scss/bootstrap.scss";
+
+@import url('https://fonts.googleapis.com/css2?family=Khand:wght@300;400;500;600;700&display=swap');
+
+body{
+  font-family: 'Khand', sans-serif;
+}
